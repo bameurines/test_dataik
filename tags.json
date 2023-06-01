@@ -3,20 +3,32 @@
     "duplicated": {
       "color": "#3A85AD"
     },
-    "section:Developer": {},
+    "section:Developer": {
+      "color": "#0f6d82"
+    },
     "deleted-recipe-editor": {
       "color": "#90a8b7"
     },
-    "code": {},
-    "downloads": {},
+    "code": {
+      "color": "#77bec2"
+    },
+    "downloads": {
+      "color": "#de1ea5"
+    },
     "recipe-editor": {
       "color": "#1ac2ab"
     },
     "imported": {
       "color": "#263238"
     },
-    "developer": {},
-    "tutorial": {},
-    "academy": {}
+    "developer": {
+      "color": "#123883"
+    },
+    "tutorial": {
+      "color": "#FFD83D"
+    },
+    "academy": {
+      "color": "#d66b9b"
+    }
   }
 }
