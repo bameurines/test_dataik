@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "bu6vTAZ",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "kasim",
+  "listed": true,
+  "name": "Shared Code SECOND PROJECT\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "kasim"
+    },
+    "lastModifiedOn": 1614118155892
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "kasim"
+    },
+    "lastModifiedOn": 1614118155892
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
