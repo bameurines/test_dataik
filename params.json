@@ -62,14 +62,13 @@
     },
     "codeEnvs": {
       "python": {
-        "mode": "USE_BUILTIN_MODE",
+        "mode": "EXPLICIT_ENV",
         "preventOverride": false,
-        "envName": "shared_code"
+        "envName": "py36-developer-v9"
       },
       "r": {
         "mode": "INHERIT",
-        "preventOverride": false,
-        "envName": "advanced-ml"
+        "preventOverride": false
       },
       "julia": {
         "mode": "INHERIT",
@@ -195,11 +194,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 46,
+    "versionNumber": 47,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1685634194357
+    "lastModifiedOn": 1685636061510
   },
   "creationTag": {
     "versionNumber": 0,
