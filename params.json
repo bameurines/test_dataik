@@ -15,7 +15,8 @@
   "additionalDashboardUsers": {
     "users": []
   },
-  "tutorialProject": false,
+  "tutorialProject": true,
+  "tutorialId": "DKU_TUT_SHARECODE_B",
   "settings": {
     "flowAnchorSourcesAndSinks": true,
     "flowDisplaySettings": {
@@ -135,7 +136,8 @@
     },
     "dkuProperties": []
   },
-  "name": "Project B (Tutorial)",
+  "name": "Project B (Tutorial) for Ines Ben Ameur",
+  "projectStatus": "Sandbox",
   "imgPattern": 2,
   "showInitials": false,
   "metrics": {
@@ -193,11 +195,11 @@
     }
   },
   "versionTag": {
-    "versionNumber": 45,
+    "versionNumber": 46,
     "lastModifiedBy": {
       "login": "admin"
     },
-    "lastModifiedOn": 1685634191729
+    "lastModifiedOn": 1685634194357
   },
   "creationTag": {
     "versionNumber": 0,
